@@ -1,4 +1,4 @@
-These will be my first ever projects that i have made after learning python and my first projects to be made on GitHub.
+These will be my first ever projects that i have made after learning python and my first projects to uploaded on GitHub.
 Hope that you like them!! :D
 
 
