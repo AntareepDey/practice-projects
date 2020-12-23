@@ -1,5 +1,5 @@
 import random
-print('Pls input your name:')
+print('Please input your name:')
 name=input()
 print("Hello {} ! Ready to play?".format(name))
 print()
