@@ -1,5 +1,5 @@
 
-These are my first few projects that i have made after learning python and my first projects to uploaded on GitHub.
+These are my first few projects that i have made after learning python and my first projects to be uploaded on GitHub.
 Hope that you like them!! :D
 
 
