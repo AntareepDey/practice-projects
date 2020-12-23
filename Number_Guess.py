@@ -135,7 +135,7 @@ elif user1<number:
             x=number%10 
             y=number//10
             s=x+y
-            print("Let me give you a last hint! The sum of the digits of the number is {}".format(s))
+            print("Let me give you a hint! The sum of the digits of the number is {}".format(s))
             print()
             life-=1
             print('You now have only {} chances left'.format(life))
