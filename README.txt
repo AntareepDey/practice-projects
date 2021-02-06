@@ -1,6 +1,6 @@
 
 These are my first few projects that I have made after learning python and my first projects to be uploaded on GitHub.
-Hope that you like them!! :D
+Hope that you like them!!:D
 
 
 
