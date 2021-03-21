@@ -17,13 +17,17 @@ def decryption(y):
                 decrypt+=alphabet[np]
         return decrypt
 
-print("What do you Want to do :")
-print("1.Encrypt the code")
-print("2.Decrypt the code")
-choice=int(input("What is your choice:"))
-if choice==1:
-        msg=input("Enter the word:")
-        print("The encrypted code:",encryption(msg))
-elif choice==2:
-        msg=input("Enter Encrypted code:")
-        print("The decrypted code:",decryption(msg))  
+def main():
+        print("What do you Want to do :")
+        print("1.Encrypt the code")
+        print("2.Decrypt the code")
+        choice=int(input("What is your choice:"))
+        if choice==1:
+                msg=input("Enter the word:")
+                print("The encrypted code:",encryption(msg))
+        elif choice==2:
+                msg=input("Enter Encrypted code:")
+                print("The decrypted code:",decryption(msg))   
+
+
+main()
