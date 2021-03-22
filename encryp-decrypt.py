@@ -30,4 +30,5 @@ def main():
                 print("The decrypted code:",decryption(msg))   
 
 
-main()
+if __name__=="__main__":
+        main()
