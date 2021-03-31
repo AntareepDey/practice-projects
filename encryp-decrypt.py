@@ -1,12 +1,15 @@
 alphabet='abcdefghijklmnopqrstuvwxyz'
 key=5
+sign='#'
 
 def encryption(x):
         encrypt=''
+        
         for i in x:
                 p=alphabet.find(i)
                 np=(p+key)% 26
                 encrypt+=alphabet[np]
+        
         return encrypt
 
 def decryption(y):
